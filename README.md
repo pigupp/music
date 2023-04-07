@@ -2,6 +2,7 @@
 Because I need a place for me to host my *"music"*.
 
 [![pages-build-deployment](https://github.com/pigupp/music/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pigupp/music/actions/workflows/pages/pages-build-deployment)
+[![GitHub repo size](https://img.shields.io/github/repo-size/pigupp/music)](https://github.com/pigupp/music?search=1)
 [![GPL-3.0](https://img.shields.io/github/license/pigupp/music)](LICENSE.md)
 [![CC-BY-4.0](https://img.shields.io/badge/content%20license-CC--BY--4.0-orange)](http://creativecommons.org/licenses/by/4.0/)
 
